@@ -1,0 +1,16 @@
+# uv python install --version
+
+# uv python pin --version
+
+# python version 3.12
+
+# uv init
+
+# uv sync  (It reads toml file and creates venv file)
+
+# .venv\Scripts\activate
+
+# uv run (for your current working directory enviorment)
+
+# uv run python --filename
+
