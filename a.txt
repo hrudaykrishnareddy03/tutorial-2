@@ -16,4 +16,4 @@
 
 # for all env and uv concepts -video 2
 
-# 
+# to enter into any env - Environment must use command prompt only or else you will get error.
